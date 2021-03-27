@@ -1,0 +1,14 @@
+{
+    "name": "dev/rami_test",
+    "authors": [
+        {
+            "name": "yarielg",
+            "email": "yariel.gordillo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Rami\\Inc\\": "inc"
+        }
+    }
+}
